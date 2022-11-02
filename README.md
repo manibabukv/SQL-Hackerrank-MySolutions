@@ -1,1 +1,1 @@
-# SQL_Hackerrank
+### Hackerrank SQL Problems
